@@ -1,1 +1,1 @@
-import store from './app/store';
+import store from './core/store';
